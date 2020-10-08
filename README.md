@@ -1,7 +1,7 @@
 # DocumentStore
 Data Structures Semester Project (Spring 2020)
 
-- Document database program built in five stages throughout the Spring 2020 semester as part of the Data Structures course
+- Document database program built using Maven in five stages throughout the Spring 2020 semester as part of the Data Structures course
 - Custom built data structures from scratch or with minimal code such as Hash Table, Stack, Trie, Heap and BTree
 - Includes a search engine which manages two-tier RAM and Disk storage using JSON serialization and deserialization
 - Converts text to PDF and vice versa
